@@ -15,7 +15,7 @@ CONTRIBUTING:
 We welcome contributions and any form of improvement. Please read our CONTRIBUTING.md file before submitting a pull request
 
 LICENSE:
-This project is licensed under the MIT LICENSE ().
+This project is licensed under the MIT LICENSE (LICENSE).
 
 CONTACT:
 For questions, feel free to reach out via the discussion tab
