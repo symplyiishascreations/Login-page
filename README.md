@@ -12,7 +12,7 @@ This is our simple She Code Africa login page. It is built based on HTML and CSS
 2. CSS
 
 CONTRIBUTING:
-We welcome contributions and any form of improvement. Please read our ... file before submitting a pull request
+We welcome contributions and any form of improvement. Please read our CONTRIBUTING.md file before submitting a pull request
 
 LICENSE:
 This project is licensed under the MIT LICENSE ().
